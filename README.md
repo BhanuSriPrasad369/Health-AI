@@ -18,7 +18,8 @@ This project is demonstrated by:
 > We are from **Sir C.R.Reddy College of Engineering,Eluru**, completing the **SmartInternz Virtual Internship** using **IBM Granite**.
 > In this video, I will explain our HealthAI project and showcase its features.
 🎥 **Watch our demo video:**
-🔗 [
+🔗 [https://drive.google.com/file/d/19TBzUO4ul2oCI1sgkFqMg5LJZw-kDImR/view?usp=drivesdk]
+> (https://drive.google.com/file/d/19TBzUO4ul2oCI1sgkFqMg5LJZw-kDImR/view?usp=drivesdk)
 ---
 ## 📸 Screenshots
 Screenshots are included in the documentation file submitted with this project.
